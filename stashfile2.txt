@@ -2,5 +2,10 @@ This is registration page
 1st day lines of code is completed 
 2nd day lines of code is completed 
 3rd day lines of code is completed 
+<<<<<<< Updated upstream
 4th day lines of code is completed
 manager is added
+=======
+4th day lines of code is completed 
+5th day lines of code is completed // one day is left. 
+>>>>>>> Stashed changes
